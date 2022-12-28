@@ -35,7 +35,7 @@ public:
 		A << surname << "\n" << experience << "\n" << pay << "\n" << timeWork << "\n" << pr;
 		
 	}
-
+ A.close();
 	}
 
 };
